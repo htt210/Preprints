@@ -3,6 +3,7 @@ Store my working papers and incomplete ideas.
 
 ## Toward a Generalization Metric for Deep Generative Latent Variable Models
 *Abstract* 
+
 Deep Generative Latent Variable Models (DGLVMs) are generative models (GMs) that use deep neural networks to transform a latent distribution to another distribution that approximates a target distribution.
 The generalizability of a DGLVM depends on the generalizability of the generator network, which is very hard to measure correctly.
 Although a number of evaluation metrics for generative models have been proposed, they are not designed to measure generalization.
