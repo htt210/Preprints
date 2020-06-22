@@ -1,5 +1,5 @@
 # Preprints
-Store my working papers and incomplete ideas. 
+This repo stores my working papers and incomplete ideas. 
 
 ## [Toward a Generalization Metric for Deep Generative Latent Variable Models](DGLVM_Generalization_Metric.pdf)
 *Abstract* 
